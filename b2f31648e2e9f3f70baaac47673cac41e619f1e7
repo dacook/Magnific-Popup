@@ -1,0 +1,4 @@
+Add support links of the type:
+    * https://youtu.be/Vw4KVoEVcr0
+    * https://youtu.be/Vw4KVoEVcr0?list=PL62E49BC6C80447FB - Note that the playlist will not be retained due to autoplay flag. Either remove autoplay flag for youtu_be, or link to playlist instead (see next)
+    * https://www.youtube.com/playlist?list=PL62E49BC6C80447FB
